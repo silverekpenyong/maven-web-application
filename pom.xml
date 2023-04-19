@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.92.197.0:8181/tosnexus/repository/JennkinsAgent1Snapshot/</url>
+	      <url>http://35.92.197.0:8181/tosnexus/repository/jfdssn/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.92.197.0:8181/tosnexus/repository/JenkinsAgent1Release/</url>
+	      <url>http://35.92.197.0:8181/tosnexus/repository/jfdsrl/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
